@@ -1,0 +1,6 @@
+You input three numbers: 1200000000, 1200000000, -2147483648
+Your result is:
+  min: -2147483648
+  mid: 1200000000
+  max: 1200000000
+Congratulations! You pass the test.

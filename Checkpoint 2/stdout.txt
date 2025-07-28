@@ -1,0 +1,6 @@
+You input three numbers: 3, 2, 1
+Your result is:
+  min: 1
+  mid: 2
+  max: 3
+Congratulations! You pass the test.
